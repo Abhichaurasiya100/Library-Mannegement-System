@@ -14,6 +14,7 @@ The main objective behind this project is as mentioned below.
 •	Increases efficiency  
 •	Reduces the library management cost 
 •	Fully authenticated system where student will have access to only resources which is given for student and admin can have all rights.
+
 4.	Literature Review:
 •	Polymorphism: The word polymorphism means having many forms. Typically, polymorphism occurs when there is a hierarchy of classes and they are related by inheritance.
 •	Class: The main purpose of C++ programming is to add object orientation to the C programming language and classes are the central feature of C++ that supports object-oriented programming and are often called user-defined types.
