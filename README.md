@@ -17,20 +17,37 @@ The main objective behind this project is as mentioned below.
 
 4.	Literature Review:
 •	Polymorphism: The word polymorphism means having many forms. Typically, polymorphism occurs when there is a hierarchy of classes and they are related by inheritance.
+
 •	Class: The main purpose of C++ programming is to add object orientation to the C programming language and classes are the central feature of C++ that supports object-oriented programming and are often called user-defined types.
+
 •	File Operation: Files are used to store data in a storage device permanently. File handling provides a mechanism to store the output of a program in a file and to perform various operations on it.
+
 In C++, files are mainly dealt by using three classes fstream, ifstream, ofstream.
+
 fstream: This Stream class signifies the output file stream and is applied to create files for writing information to files and reading information from file.
+
 Ifstream: This Stream class signifies the input file stream and is applied to read information from files
+
 ofstream: This Stream class signifies the output file stream and is applied to create files for writing information to files
+
 Function of fstream class:
+
 read (): It read the input from file.
+
 write (): It writes information into file.
+
 open ():  It open the file in specified mode.
+
 close (): it is used to close the file after opening.
+
 Modes used to project : 
+
 ios::out: It open file in write mode
+
 ios::in :It opens file in read mode
+
 ios::trunc :It open file in write mode and truncates all data present in that file
+
 ios::app :It open file and sets cursor at the end of the file.
+
 
